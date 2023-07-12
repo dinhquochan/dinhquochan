@@ -6,7 +6,8 @@ My name is Han Dinh from Vietnam :vietnam:. I'm a software engineer and founder 
  - Our team: https://archielite.com
  - Codecanyon: https://codecanyon.net/user/archielite
  - LinkedIn: https://www.linkedin.com/in/dqh
- - Twitter: https://twitter.com/handinh_157
+ - Twitter: https://twitter.com/handinh157
+ - YouTube: https://www.youtube.com/@dinhquochan
  
 ## Skills
 
