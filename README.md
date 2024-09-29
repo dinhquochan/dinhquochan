@@ -19,4 +19,4 @@ My name is Han Dinh from Vietnam :vietnam:. I'm a software engineer and founder 
 
 ## Github Contributes
 
-![](https://github-readme-stats.vercel.app/api?username=dinhquochan&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=dinhquochan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
